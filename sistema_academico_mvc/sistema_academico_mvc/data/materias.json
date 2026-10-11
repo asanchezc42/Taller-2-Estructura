@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Programación",
+    "codigo": "PROG101",
+    "creditos": 4,
+    "cupos": 29
+  }
+]
